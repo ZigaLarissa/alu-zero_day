@@ -1,3 +1,3 @@
 My first readme,
 
-I am an engineer.
+I am a software engineer.
